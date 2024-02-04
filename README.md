@@ -4,9 +4,6 @@
 
 - 📖 I’m currently studing at [USM SJ](https://usm.cl) as a Computer Civil Engineer
 - 📫 How to reach me: **ncancinoh@gmail.com**
-- ⭐ Here are some projects that I'm working on:
-  - [N/A]()
-
 
 <h3>Things I code with</h3>
 <p>
@@ -18,6 +15,9 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+⭐ Here are some projects that I'm working on:
+  - [N/A]()
 
 <h3>Where to find me</h3>
 <p>
